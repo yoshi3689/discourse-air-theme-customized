@@ -6,7 +6,7 @@
   "modifiers": {
     "serialize_topic_excerpts": true
   },
-  "name": "Air Theme",
+  "name": "Air Theme customized",
   "color_schemes": {
     "air-light": {
       "primary": "1c1c1c",
@@ -32,6 +32,6 @@
       "success": "71BD9F",
       "love": "C16AD7"
     }
-  },
-  "components": ["https://github.com/jordanvidrine/discourse-category-group-boxes.git","https://github.com/discourse/discourse-color-scheme-toggle.git","https://github.com/discourse/discourse-loading-slider.git","https://github.com/discourse/discourse-clickable-topic.git","https://github.com/discourse/discourse-search-banner.git"]
+  }
+  
 }
