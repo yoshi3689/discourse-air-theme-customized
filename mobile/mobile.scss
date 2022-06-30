@@ -113,3 +113,10 @@ ol.category-breadcrumb {
   border-radius: 0.25em;
   margin-top: 1em;
 }
+
+// additional stuff for our needs
+.list-controls .nav-pills .navigation-toggle {
+  flex: 0 1 auto;
+  display: none;
+}
+

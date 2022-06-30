@@ -1,2 +1,8 @@
 @import "showcased-categories";
 @import "chat-desktop";
+
+.nav-pills>li a.active {
+  color: var(--secondary);
+  background-color: var(--quaternary);
+  display: none;
+}
