@@ -6,7 +6,7 @@
   "modifiers": {
     "serialize_topic_excerpts": true
   },
-  "name": "Air Theme customized",
+  "name": "discourse-air-theme-customized",
   "color_schemes": {
     "air-light": {
       "primary": "1c1c1c",
@@ -33,5 +33,4 @@
       "love": "C16AD7"
     }
   }
-  
 }
